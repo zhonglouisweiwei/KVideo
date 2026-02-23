@@ -1,6 +1,6 @@
 [![Upstream Sync](https://github.com/sky06walker/KVideo/actions/workflows/Github_Upstream_Sync.yml/badge.svg)](https://github.com/sky06walker/KVideo/actions/workflows/Github_Upstream_Sync.yml)
 
-# 视频聚合平台 (KVideo)
+# 视频聚合平台 (KVideo)（premium）
 
 ![KVideo Banner](public/icon.png)
 
